@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Anna 🐼
 
+<div id="badges">
+  <a href="https://www.instagram.com/los.anny">
+    <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=red&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+</div>
+
+![Profile views](https://gpvc.arturio.dev/LosAnny)
 <!--
 **LosAnny/LosAnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
